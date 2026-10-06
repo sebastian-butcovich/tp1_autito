@@ -1,0 +1,36 @@
+# FROENTE - TYPESCRIPT
+**/node_modules/
+**/.pnpm-store
+**/jspm_packges
+**/build/
+**/dist/
+**/out/
+
+#Logs de error y TypeScript
+*.log*
+*.tsbuildinfo
+**/.eslintcache
+
+# Variables de entorno
+**/.env
+**/.env.*.local
+
+
+## JAVA -BACKEND
+**/target/
+**/build/
+**/.gradle/
+**/bin/
+
+## Archivos compilados y empaquetados finales
+*.class
+*.jar
+*.war
+*.zip
+
+## Editores
+**/.idea/
+**/.vscode/
+*.iml
+
+
